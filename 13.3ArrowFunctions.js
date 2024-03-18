@@ -7,5 +7,5 @@
   });
   return evens;
 }*/
-
+13.3 Arrow Functions
 const squareAndFindEvens = numbers => numbers.map(val => val ** 2).filter(square => square % 2 === 0)

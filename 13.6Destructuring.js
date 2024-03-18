@@ -9,7 +9,7 @@ const raceResults = ([first, second, third, ...rest]) => ({first, second, third,
 
 
 
-let facts = {numPlanets: 8, yearNeptuneDiscovered: 1846};
+/*let facts = {numPlanets: 8, yearNeptuneDiscovered: 1846};
 let {numPlanets, yearNeptuneDiscovered} = facts;
 
 console.log(numPlanets); // 8
@@ -65,7 +65,7 @@ console.log(numbers) // [10,30,20]
 
 /* Write an ES2015 Version */
 
-const obj = {
+/*const obj = {
     numbers: {
       a: 1,
       b: 2
@@ -74,5 +74,4 @@ const obj = {
   
   const {a,b} = obj.numbers
 
-  [arr[0], arr[1]] = [arr[1], arr[0]]
-
+  [arr[0], arr[1]] = [arr[1], arr[0]]*/
