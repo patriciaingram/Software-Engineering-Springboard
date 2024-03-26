@@ -1,0 +1,11 @@
+Capstone: Step One - Pick Project Ideas
+Patricia Ingram 2024
+
+
+1. Website about all different kinds of animals and links to useful sites and stores for taking care of them. This website will have animals, facts about them such as diet and habitat. As well as useful links to resources for the animal as well as links to adoption centers.
+https://www.petfinder.com/developers/
+
+2. Booking site with all the filters like date and location to schedule flights and car rentals.
+
+
+3. Plant Encyclopedia/ guide which can show users different types of plants which can be filtered by name and type. Will include information such as regions for growth and preferred water and sun schedule. 
